@@ -21,7 +21,7 @@ For each monthly competition, we'll be offering Kaggle Merchandise for the top t
 Submissions are evaluated on SMAPE between forecasts and actual values. We define SMAPE = 0 when the actual and predicted values are both 0.
 
 Submission File
-For each row_id in the test set, you must predict the corresponding num_sold.
+For each row_id in the test set, **you must predict the corresponding num_sold.**
 
 ### Data Description:
 
